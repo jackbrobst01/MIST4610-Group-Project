@@ -26,6 +26,24 @@ Overall, this data model represents the essential functions of an online store, 
 
 ## Data Dictionary:
 <img width="1147" height="643" alt="image" src="https://github.com/user-attachments/assets/6037ad49-3c62-4900-93e9-20153086a84b" />
+<img width="1152" height="826" alt="image" src="https://github.com/user-attachments/assets/e8a3dcfc-5684-44b1-80c4-d07ca4c32d10" />
+<img width="1153" height="885" alt="image" src="https://github.com/user-attachments/assets/a7ed8374-16e3-4aa9-9564-4f2fd939025b" />
+<img width="1152" height="769" alt="image" src="https://github.com/user-attachments/assets/a82b64c3-c85e-474c-8781-b9369fec0ba9" />
+<img width="1165" height="738" alt="image" src="https://github.com/user-attachments/assets/e44b042c-048f-4497-b8ff-44410bb4e09e" />
+<img width="1151" height="1044" alt="image" src="https://github.com/user-attachments/assets/28683260-3bcc-425f-ba30-5dc1d6f7507f" />
+<img width="1159" height="1091" alt="image" src="https://github.com/user-attachments/assets/00c22d34-6e91-4303-b67c-8e8bde6c4075" />
+<img width="1149" height="1198" alt="image" src="https://github.com/user-attachments/assets/159dc902-b449-40af-be82-008931b9c6a8" />
+<img width="1181" height="837" alt="image" src="https://github.com/user-attachments/assets/de272872-3e20-4eb8-acd5-285da162cd89" />
+<img width="1157" height="470" alt="image" src="https://github.com/user-attachments/assets/55442b13-aa85-4fd7-b68b-49fe97a8927e" />
+
+
+
+
+
+
+
+
+
 
 
 ## Ten Queries:
