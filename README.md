@@ -25,6 +25,8 @@ Overall, this data model represents the essential functions of an online store, 
 
 
 ## Data Dictionary:
+<img width="1116" height="560" alt="image" src="https://github.com/user-attachments/assets/3424645b-1dec-4ab2-b7e9-fd47295c7e04" />
+
 
 ## Ten Queries:
 
