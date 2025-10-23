@@ -20,6 +20,9 @@ The Product table stores basic product details such as name and price and is lin
 
 Overall, this data model represents the essential functions of an online store, including browsing and adding items to a cart, purchasing, and shipping, while maintaining relationships that reflect how real-world e-commerce systems operate.
 
+<img width="1117" height="516" alt="MISTproject1 data model" src="https://github.com/user-attachments/assets/739bc96f-6a89-44e4-97ce-1c2953c6f0f2" />
+
+
 ## Data Dictionary:
 
 ## Ten Queries:
