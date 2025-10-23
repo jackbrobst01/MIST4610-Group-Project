@@ -10,10 +10,20 @@ The goal of this project is to design and build a relational database that model
 
 ## Data Model:
 
-## Data Dictionary
+Our model is based on the structure of an online retail company that sells products through an e-commerce platform. The main entity is Customer, which stores information about each user who shops on the site. A customer can have multiple addresses saved for shipping and billing purposes, which is why there is a one-to-many relationship between Customer and Address. Each customer can also have one active Cart, where they can add products before completing a purchase.
+
+The Cart_Item entity serves as a bridge between Cart and Product, allowing a cart to contain multiple products and keeping track of quantities for each. Once a customer confirms their purchase, a record is created in the Order table. Each order is linked back to the customer who made it, and an order can contain multiple products, which is represented by the Order_Item table. This associative entity connects Order and Product, forming a many-to-many relationship between them.
+
+The Payment table is directly connected to the Order table in a one-to-one relationship, since each order has one payment record. The Shipper entity stores information about the shipping providers responsible for delivering the orders. Since one shipper can handle many orders, there is a one-to-many relationship between Shipper and Order.
+
+The Product table stores basic product details such as name and price and is linked to the Category table, which groups products into logical sections such as “Electronics” or “Home.” The Category entity also includes a recursive relationship, since some categories can have subcategories.
+
+Overall, this data model represents the essential functions of an online store, including browsing and adding items to a cart, purchasing, and shipping, while maintaining relationships that reflect how real-world e-commerce systems operate.
+
+## Data Dictionary:
 
 ## Ten Queries:
 
-## Database Information
+## Database Information:
 
 
