@@ -34,7 +34,7 @@ Overall, this data model represents the essential functions of an online store, 
 <img width="1159" height="1091" alt="image" src="https://github.com/user-attachments/assets/00c22d34-6e91-4303-b67c-8e8bde6c4075" />
 <img width="1149" height="1198" alt="image" src="https://github.com/user-attachments/assets/159dc902-b449-40af-be82-008931b9c6a8" />
 <img width="1181" height="837" alt="image" src="https://github.com/user-attachments/assets/de272872-3e20-4eb8-acd5-285da162cd89" />
-<img width="1158" height="446" alt="image" src="https://github.com/user-attachments/assets/649880e2-4ddc-41d4-a5bd-3d059c47a0d9" />
+<img width="1166" height="504" alt="image" src="https://github.com/user-attachments/assets/1efde322-4b96-462d-9427-828101637167" />
 
 
 
