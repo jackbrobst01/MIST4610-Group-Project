@@ -36,17 +36,10 @@ Overall, this data model represents the essential functions of an online store, 
 <img width="1181" height="837" alt="image" src="https://github.com/user-attachments/assets/de272872-3e20-4eb8-acd5-285da162cd89" />
 <img width="1166" height="504" alt="image" src="https://github.com/user-attachments/assets/1efde322-4b96-462d-9427-828101637167" />
 
-
-
-
-
-
-
-
-
-
-
 ## Ten Queries:
+1. Query 1 lists the total daily revenue and number of orders processed each day within the last 90 days. It joins the Payment, order, and shipper tables to show revenue patterns connected to shipping activity, grouping by the payment date.
+<img width="1154" height="1036" alt="image" src="https://github.com/user-attachments/assets/eb83957e-c9bf-4bfa-9d0b-bdf5ab530a7b" />
+Managers can use this query to track sales performance trends and identify high- and low-revenue days. It assists in recognizing seasonality, planning staffing levels, and timing promotions or discounts during slower periods.
 
 ## Database Information:
 
