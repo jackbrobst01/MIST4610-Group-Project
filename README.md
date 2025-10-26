@@ -7,7 +7,7 @@
 
 ## Scenario Description:
 
-The goal of this project is to design and build a relational database that models the operations of an online retail company. The main focus of the database is the Customer, who browses products, adds them to their cart, and places orders. The database also includes entities like Product, Category, Cart, Order, Payment, Shipper, and Address, which help track different parts of the shopping process from start to finish. The purpose of this project is to organize and connect these entities in a way that accurately reflects how an online store works in real life. After creating the data model, we generated sample data and populated each table to represent real business activity. Finally, we will run SQL queries on the data to answer business-like questions.
+The task for our project is to design and build a database for an online retail company. The main focus of the database is the Customer entity, who can browse products, add products to their cart, and purchase the items. Some of the other entities consist of Product, Cart, Order, Payment, Shipper, and Address, which all work together to help track the shopping process. The goal was to design this model in a way that represents how an e-commerce store would work in real life. After creating the model, we populated it with data to represent business activity and then made 10 SQL queries to answer questions with the data that real managers would find helpful.
 
 ## Data Model:
 
