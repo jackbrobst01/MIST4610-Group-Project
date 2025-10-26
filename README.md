@@ -92,5 +92,5 @@ This query allows managers to see which customers are actively engaging with the
 
 
 ## Database Information:
-
+Name of the database: 
 
