@@ -92,5 +92,7 @@ This query allows managers to see which customers are actively engaging with the
 
 
 ## Database Information:
+<img width="1176" height="767" alt="image" src="https://github.com/user-attachments/assets/19bd875a-bc55-46f0-8c16-5bf6f51eca16" />
+
 Name of the database: 
 
