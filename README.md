@@ -38,48 +38,48 @@ Overall, this data model represents the essential functions of an online store, 
 
 ## Ten Queries:
   1. Query 1 lists the total daily revenue and number of orders processed each day within the last 90 days. It joins the Payment, order, and shipper tables to show revenue patterns connected to shipping activity, grouping by the payment date.
-<img width="1154" height="1036" alt="image" src="https://github.com/user-attachments/assets/eb83957e-c9bf-4bfa-9d0b-bdf5ab530a7b" />
 Managers can use this query to track sales performance trends and identify high- and low-revenue days. It assists in recognizing seasonality, planning staffing levels, and timing promotions or discounts during slower periods.
+<img width="1154" height="1036" alt="image" src="https://github.com/user-attachments/assets/eb83957e-c9bf-4bfa-9d0b-bdf5ab530a7b" />
 
 
   2. This query identifies the top ten products generating the most revenue in the last 90 days. It combines product, order, and order item data to calculate total revenue per product.
-<img width="1136" height="834" alt="image" src="https://github.com/user-attachments/assets/623e861d-c8e7-4d93-be5b-60bc81f3f834" />
 This query helps managers determine which products are driving the majority of sales and profit. These insights can guide marketing campaigns, highlight which items to feature on the website, and support better demand forecasting.
+<img width="1136" height="834" alt="image" src="https://github.com/user-attachments/assets/623e861d-c8e7-4d93-be5b-60bc81f3f834" />
 
 
   3. This query summarizes sales revenue for each product category by linking categories to their products and corresponding order items.
-<img width="1166" height="804" alt="image" src="https://github.com/user-attachments/assets/211f3011-a13b-4e7e-b112-df350926f343" />
 Managers use this query to understand which product lines perform best, enabling data-driven inventory planning. It also helps identify underperforming categories that may require improved marketing or product updates.
+<img width="1166" height="804" alt="image" src="https://github.com/user-attachments/assets/211f3011-a13b-4e7e-b112-df350926f343" />
 
 
   4. This query lists the top 20 customers based on total spending. It also displays the number of orders, average order value, and most recent order date for each.
-<img width="1144" height="875" alt="image" src="https://github.com/user-attachments/assets/fb4348b5-882a-4371-a095-482fb5e73544" />
 Managers can use this to identify high-value customers for loyalty programs or personalized promotions. It highlights which customers contribute most to profitability and can guide retention and engagement strategies.
+<img width="1144" height="875" alt="image" src="https://github.com/user-attachments/assets/fb4348b5-882a-4371-a095-482fb5e73544" />
 
 
   5. This query calculates total revenue, number of unique customers, and total orders per state.
-<img width="1148" height="1092" alt="image" src="https://github.com/user-attachments/assets/c7bc92ed-d479-4cbd-b1c0-3f799dc1a4e2" />
 Managers can use this information to identify strong regional markets and allocate marketing resources effectively. It also helps pinpoint underperforming areas where additional advertising or partnerships could increase sales.
+<img width="1148" height="1092" alt="image" src="https://github.com/user-attachments/assets/c7bc92ed-d479-4cbd-b1c0-3f799dc1a4e2" />
 
 
   6. This query analyzes each shipping provider’s performance by counting orders shipped and calculating the average order value for each.
-<img width="1166" height="885" alt="image" src="https://github.com/user-attachments/assets/91772488-99c0-4cfd-819e-9cff53c228c8" />
 Managers can use this data to evaluate shipping partners’ performance, identify cost-efficient options, and ensure delivery reliability. It helps balance customer satisfaction with operational costs.
+<img width="1166" height="885" alt="image" src="https://github.com/user-attachments/assets/91772488-99c0-4cfd-819e-9cff53c228c8" />
 
 
   7. This query shows which customers have ordered the same product more than once, and how many times have they purchased each repeated product.
-<img width="831" height="826" alt="image" src="https://github.com/user-attachments/assets/b7bb3e0e-a6d3-4a07-8d24-6183f9c12754" />
 This query helps the marketing department identify repeat buyers and brand-loyal customers for specific products. Customers who reorder the same product demonstrate strong product affinity, which provides an opportunity for targeted marketing campaigns.
+<img width="831" height="826" alt="image" src="https://github.com/user-attachments/assets/b7bb3e0e-a6d3-4a07-8d24-6183f9c12754" />
 
 
   8. This query shows which products and categories are most frequently found in carts that were abandoned.
-<img width="827" height="830" alt="image" src="https://github.com/user-attachments/assets/0eb5508a-e264-4fa7-956e-a80291b46112" />
 This query helps marketing and sales teams identify which specific products and categories customers most often add to their carts but fail to purchase, so they can develop ad campaigns about the abandoned products to help finalize their customers’ purchases. 
+<img width="827" height="830" alt="image" src="https://github.com/user-attachments/assets/0eb5508a-e264-4fa7-956e-a80291b46112" />
 
 
   9. This query shows a list of customers who have items in their cart but have never completed an order.
-<img width="1161" height="643" alt="image" src="https://github.com/user-attachments/assets/a58bcb93-0d8c-4a86-b20f-9109bc896b32" />
 This query allows managers to see which customers are actively engaging with the website (adding items to their carts) but are not completing purchases. These customers represent a key opportunity for targeted marketing strategies such as abandoned cart emails, personalized promotions, or reminders.
+<img width="1161" height="643" alt="image" src="https://github.com/user-attachments/assets/a58bcb93-0d8c-4a86-b20f-9109bc896b32" />
 
 
 ## Database Information:
