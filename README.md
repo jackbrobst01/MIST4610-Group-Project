@@ -2,7 +2,7 @@
 
 ## Team Members:
 
-1. Jack Brobst jdb54521@uga.edu
+1. Jack Brobst @jackbrobst01
 2. Zeb Stone zgs18605@uga.edu
 
 ## Scenario Description:
