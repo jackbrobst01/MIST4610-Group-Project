@@ -102,4 +102,5 @@ This query tracks how often customers place orders and measures the average time
 <img width="1160" height="738" alt="image" src="https://github.com/user-attachments/assets/5f2f49e1-19ad-4530-9f99-a1cfd5c48896" />
 
 Name of the database: cs_zgs18605
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1() throught TP_Q10();
 
