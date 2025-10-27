@@ -92,9 +92,13 @@ This query helps marketing and sales teams identify which specific products and 
 This query allows managers to see which customers are actively engaging with the website (adding items to their carts) but are not completing purchases. These customers represent a key opportunity for targeted marketing strategies such as abandoned cart emails, personalized promotions, or reminders.
 <img width="1161" height="643" alt="image" src="https://github.com/user-attachments/assets/a58bcb93-0d8c-4a86-b20f-9109bc896b32" />
 
+  10. This query shows customers with a declining order frequency over time.
+
+This query tracks how often customers place orders and measures the average time between their purchases. Customers who have not ordered recently or who take longer between orders can be identified through this data.
+<img width="1183" height="999" alt="image" src="https://github.com/user-attachments/assets/315def09-20ed-420a-b71b-6ed258ab5f58" />
 
 ## Database Information:
-<img width="1176" height="767" alt="image" src="https://github.com/user-attachments/assets/19bd875a-bc55-46f0-8c16-5bf6f51eca16" />
+<img width="1160" height="738" alt="image" src="https://github.com/user-attachments/assets/5f2f49e1-19ad-4530-9f99-a1cfd5c48896" />
 
 Name of the database: 
 
