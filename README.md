@@ -4,6 +4,7 @@
 
 1. Jack Brobst [@jackbrobst01](https://github.com/jackbrobst01)
 2. Zeb Stone zgs18605@uga.edu
+3. Wade Pirkl wjp82580@uga.edu 
 
 ## Scenario Description:
 
