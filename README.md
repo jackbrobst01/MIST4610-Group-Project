@@ -2,9 +2,10 @@
 
 ## Team Members:
 
-1. Jack Brobst [@jackbrobst01](https://github.com/jackbrobst01)
+1. Jack Brobst jdb54521@uga.edu [@jackbrobst01](https://github.com/jackbrobst01) 
 2. Zeb Stone zgs18605@uga.edu
-3. Wade Pirkl wjp82580@uga.edu 
+3. Wade Pirkl wjp82580@uga.edu
+4. Bradley Gabriel btg02951@uga.edu
 
 ## Scenario Description:
 
@@ -94,7 +95,7 @@ This query allows managers to see which customers are actively engaging with the
 
   10. This query shows customers with a declining order frequency over time.
 
-This query tracks how often customers place orders and measures the average time between their purchases. Customers who have not ordered recently or who take longer between orders can be identified through this data.
+This query tracks how often customers place orders and measures the average time between their purchases. Customers who have not ordered recently or who take longer between orders can be identified through this data. Managers would use this information to try to advertise more to these customers and get their business back through sales/promotions.
 <img width="1183" height="999" alt="image" src="https://github.com/user-attachments/assets/315def09-20ed-420a-b71b-6ed258ab5f58" />
 
 ## Database Information:
