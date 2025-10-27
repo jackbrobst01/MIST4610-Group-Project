@@ -101,5 +101,5 @@ This query tracks how often customers place orders and measures the average time
 ## Database Information:
 <img width="1160" height="738" alt="image" src="https://github.com/user-attachments/assets/5f2f49e1-19ad-4530-9f99-a1cfd5c48896" />
 
-Name of the database: 
+Name of the database: cs_zgs18605
 
